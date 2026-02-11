@@ -1,0 +1,1 @@
+export type productStatus="available"|"sold out";
